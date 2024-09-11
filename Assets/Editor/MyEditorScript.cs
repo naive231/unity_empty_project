@@ -6,7 +6,7 @@ class MyEditorScript
     static void PerformBuild ()
     {
         BuildPlayerOptions buildPlayerOptions = new BuildPlayerOptions();
-        buildPlayerOptions.scenes = new[] { "Assets/SampleScene.unity" };
+        buildPlayerOptions.scenes = new[] { "Assets/Scenes/SampleScene.unity" };
         buildPlayerOptions.locationPathName = "Builds/MyAndroidBuild.apk"; 
         buildPlayerOptions.target = BuildTarget.Android; 
         buildPlayerOptions.options = BuildOptions.None; 
