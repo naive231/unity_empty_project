@@ -9,18 +9,18 @@ Architecture:            x86_64
 Available memory:        128749 MB
 [Licensing::Module] Trying to connect to existing licensing client channel...
 [Licensing::IpcConnector] Connection attempt to the License Client on channel: "LicenseClient-root" failed because channel doesn't exist; code: "0x80000002"
-[Licensing::Module] Successfully launched the LicensingClient (PId: 1609)
-[Licensing::IpcConnector] Successfully connected to the License Client on channel: "LicenseClient-root" at "2024-09-11T07:45:58.800757Z"
+[Licensing::Module] Successfully launched the LicensingClient (PId: 2209)
+[Licensing::IpcConnector] Successfully connected to the License Client on channel: "LicenseClient-root" at "2024-09-11T08:16:52.644025Z"
 [SignatureVerifier] Application signature verification not supported on this platform.
 [Licensing::Client] Handshaking with LicensingClient:
   Version:                 1.15.5+a2f8afb
-  Session Id:              99962891571e4e52ba21af6c59029d1f
-  Correlation Id:          ea38e73e06c8837af30a1ee2cbe0da3e
-  External correlation Id: 1342347425123942886
+  Session Id:              2afe476a98b2470da9887835a3120ac6
+  Correlation Id:          a2fa1251307dda0b95b096663bda4a2f
+  External correlation Id: 146226161273001212
   Machine Id:              D7nTUnjNAmtsUMcnoyrqkgIbYdM=
-[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-root" (connect: 0.77s, validation: 0.11s, handshake: 0.00s)
-[Licensing::IpcConnector] Successfully connected to the License Notification on channel: "LicenseClient-root-notifications" at "2024-09-11T07:45:58.910331Z"
-[Licensing::Module] Connected to LicensingClient (PId: 1609, launch time: 0.00, total connection time: 0.88s)
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-root" (connect: 0.84s, validation: 0.11s, handshake: 0.00s)
+[Licensing::IpcConnector] Successfully connected to the License Notification on channel: "LicenseClient-root-notifications" at "2024-09-11T08:16:52.751546Z"
+[Licensing::Module] Connected to LicensingClient (PId: 2209, launch time: 0.00, total connection time: 0.94s)
 [Licensing::Module] Error: Access token is unavailable; failed to update
 [Licensing::Client] Error: Code 500 while processing request (status: Unable to update licenses. Errors: No ULF license found.,Token not found in cache)
 [Licensing::Client] Error: Code 500 while updating license in client (status: Unable to update licenses. Errors: No ULF license found.,Token not found in cache)
