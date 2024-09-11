@@ -5,6 +5,7 @@ Unity -quit \
   -buildTarget Android \
   -customBuildTarget Android \
   -customBuildName ExampleProjectName \
-  -customBuildPath ./Builds/Android/ \
+  -executeMethod MyEditorScript.PerformBuild \
   -logFile build.log
 
+echo $?
