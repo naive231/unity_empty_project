@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><root>
+    <License id="Terms">
+        <MachineBindings>
+            <Binding Key="1" Value="576562626572264761624c65526f7578"/>
+            <Binding Key="2" Value="576562626572264761624c65526f7578"/>
+        </MachineBindings>
+        <MachineID Value="D7nTUnjNAmtsUMcnoyrqkgIbYdM="/>
+        <SerialHash Value="17d1bd9bb8c00192b3f3c41b3c4ecd04bbb7e7cf"/>
+        <Features>
+            <Feature Value="33"/>
+            <Feature Value="44"/>
+            <Feature Value="12"/>
+            <Feature Value="34"/>
+            <Feature Value="13"/>
+            <Feature Value="24"/>
+            <Feature Value="25"/>
+            <Feature Value="36"/>
+            <Feature Value="17"/>
+            <Feature Value="18"/>
+            <Feature Value="19"/>
+            <Feature Value="0"/>
+            <Feature Value="1"/>
+            <Feature Value="243"/>
+            <Feature Value="244"/>
+            <Feature Value="2"/>
+            <Feature Value="3"/>
+            <Feature Value="245"/>
+            <Feature Value="4"/>
+            <Feature Value="60"/>
+            <Feature Value="40"/>
+            <Feature Value="20"/>
+            <Feature Value="21"/>
+        </Features>
+        <DeveloperData Value="AQAAAFNDLTdGS0ItTVhZVS1ENVk0LVhRTUQtQlBZTQ=="/>
+        <SerialMasked Value="SC-7FKB-MXYU-D5Y4-XQMD-XXXX"/>
+        <StartDate Value="2022-09-28T00:00:00"/>
+        <StopDate Value="2024-12-22T00:00:00"/>
+        <UpdateDate Value="2024-09-12T08:36:51"/>
+        <InitialActivationDate Value="2022-09-30T00:59:47"/>
+        <LicenseVersion Value="6.x"/>
+        <ClientProvidedVersion Value="2022.3.45"/>
+        <AlwaysOnline Value="false"/>
+        <Entitlements>
+            <Entitlement Ns="unity_editor" Tag="UnityPro" Type="EDITOR" ValidTo="2024-12-20T00:00:00"/>
+            <Entitlement Ns="unity_editor" Tag="UnityPersonal" Type="EDITOR" ValidTo="9999-12-31T00:00:00"/>
+            <Entitlement Ns="unity_editor" Tag="DarkSkin" Type="EDITOR_FEATURE" ValidTo="9999-12-31T00:00:00"/>
+        </Entitlements>
+    </License>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#Terms"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>84UKWenT+Vjume9SbM/DUvJHwdQ=</DigestValue></Reference></SignedInfo><SignatureValue>0qiSPtpeVeYJXgwXfWqfekc6ifxNPGX3qtIrbWZy0fGv4guanZawDDn8gnYLkRyp97Lbcz9B59OP&#13;
+5CkrEDGj7kQYHj5exw1YUYOrCXJrnxTZCXxjdjmXzasCo5LoLyYEWBy++UF/fx6FW8aibmh97MTl&#13;
+DB4LvCkMFGNeIJMdaUZP65Au0aZaPQlNsop0Jp4s1ZXcn+9X8QxqUlHYnNs3FyboQRNxeqKU9ZDP&#13;
+4x39ateL2ZV2R1yQcMzEwNqd7tyjmOCh9UnvFnXUiQtDvMeZhsyxq8j/H4HBgC1pyZjBjFENOkFz&#13;
+Q9nNu7Jjy3wGMAkOwsq3VYtvkcecQaX435nNXg==</SignatureValue></Signature></root>
