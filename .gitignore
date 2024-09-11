@@ -1,2 +1,6 @@
+commit_log
+.vsconfig
+Temp/
+unity_empty_project.sln
 Library/
-Logs/
+Logs
